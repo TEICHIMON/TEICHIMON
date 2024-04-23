@@ -66,7 +66,7 @@ I am a Full-stack developer with 2+ years' experience creating interactive, scal
 
 
 
-<details>
+<div>
  <summary><h3>👨‍💻 ZHIWEN's Experiences</h3></summary>
 April 2022 - May 2023: Worked as a full-stack engineer at Spinx Games Limited, responsible for developing websites for the gaming business.
 
@@ -114,4 +114,4 @@ Validated request data using DTOs and Schemas to maintain data integrity.
 Implemented CRUD operations for MongoDB using the Mongoose library.
 
 [website]: https://learn.zzsj.me
-</details>
+</div>
