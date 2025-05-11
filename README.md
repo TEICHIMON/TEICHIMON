@@ -2,7 +2,7 @@
 
 **`Full-Stack Enginner && Frontend Engineer`**
 
-I am a Full-stack developer with 2+ years' experience creating interactive, scalable web apps. Skilled in optimizing performance, enhancing UX, and improving efficiency through innovative solutions. Proven track record of increasing conversion rates, streamlining updates, and reducing workload. Seeks to leverage expertise in tackling challenging projects and delivering cutting-edge solutions.
+I am a Full-stack developer with 3+ years' experience creating interactive, scalable web apps. Skilled in optimizing performance, enhancing UX, and improving efficiency through innovative solutions. Proven track record of increasing conversion rates, streamlining updates, and reducing workload. Seeks to leverage expertise in tackling challenging projects and delivering cutting-edge solutions.
 
 ---
 
