@@ -62,7 +62,7 @@ I am a Full-stack developer with 3+ years' experience creating interactive, scal
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEICHIMON&show_icons=true&theme=gruvbox)
+[![TEICHIMON's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEICHIMON)](https://github.com/TEICHIMON/github-readme-stats)
 
 
 
