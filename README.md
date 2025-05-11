@@ -58,13 +58,15 @@ I am a Full-stack developer with 3+ years' experience creating interactive, scal
 
 [//]: # ([<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]&#40;https://www.youtube.com/c/fknight?sub_confirmation=1&#41;)
 
-#
+<br/>
 
 ### 📊 Stats
 
 [![TEICHIMON's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEICHIMON)](https://github.com/TEICHIMON/github-readme-stats)
 
+<br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=TEICHIMON)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
  <summary><h3>👨‍💻 ZHIWEN's Experiences</h3></summary>
