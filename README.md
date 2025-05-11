@@ -56,11 +56,11 @@ I am a Full-stack developer with 3+ years' experience creating interactive, scal
 
 ### 📊 Stats
 
-[![TEICHIMON's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEICHIMON)](https://github.com/TEICHIMON/github-readme-stats)
+[![TEICHIMON's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEICHIMON)]
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TEICHIMON)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TEICHIMON)]
 
 <div>
  <summary><h3>👨‍💻 ZHIWEN's Experiences</h3></summary>
