@@ -68,7 +68,7 @@ I am a Full-stack developer with 3+ years' experience creating interactive, scal
 
 <div>
  <summary><h3>👨‍💻 ZHIWEN's Experiences</h3></summary>
-April 2022 - May 2023: Worked as a full-stack engineer at Spinx Games Limited, responsible for developing websites for the gaming business.
+April 2022 - May 2025: Worked as a full-stack engineer at Spinx Games Limited, responsible for developing websites for the gaming business.
 
 As a technical leader in the development of the marketing campaign system, designed and developed the system using Vue.js and Node.js, ensuring project progress and quality.
 Led the performance optimization of websites and the transformation of traditional CSR projects to SSR.
